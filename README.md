@@ -1,4 +1,4 @@
-Many of my other projects are on my github organization 
+Some of my other projects are on my github organization 
 
 https://github.com/RSGL
 
