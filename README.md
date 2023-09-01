@@ -9,7 +9,7 @@ https://github.com/RSGL
 Contacts:
 
 - email : colleagueRiley@gmail.com
-- discord : Colleague Riley#5841
+- discord : ColleagueRiley
 
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rsgl.png?raw=true)](https://github.com/ColleagueRiley/RSGL)
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rgfw.png?raw=true)](https://github.com/ColleagueRiley/RGFW)
