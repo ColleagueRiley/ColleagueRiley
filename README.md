@@ -8,6 +8,7 @@ Contacts:
 
 - email : colleagueRiley@gmail.com
 - discord : ColleagueRiley
+- discord server: https://discord.gg/6gCG3BEa
 
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rsgl.png?raw=true)](https://github.com/ColleagueRiley/RSGL)
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rgfw.png?raw=true)](https://github.com/ColleagueRiley/RGFW)
