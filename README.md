@@ -16,5 +16,6 @@ Contacts:
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/silicon-h.png?raw=true)](https://github.com/eimamei/silicon)
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rfont.png?raw=true)](https://github.com/ColleagueRiley/RFont)
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rgl.png?raw=true)](https://github.com/ColleagueRiley/RGL)
+[![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/RSoft_logo.png?raw=true)](https://github.com/ColleagueRiley/RSoft)
 
 ![](https://komarev.com/ghpvc/?username=ColleagueRiley&style=flat-square)
