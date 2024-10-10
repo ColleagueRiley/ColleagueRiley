@@ -2,7 +2,7 @@ Some of my other projects are on my github organization
 
 https://github.com/RSGL
 
-[A C toolchain library that aims at modernizing C without becoming bloatware nor infringing on C's elegance (not written by me)](https://github.com/EimaMei/sili-toolchain)
+[A C library that aims at modernizing C without becoming bloatware nor infringing on C's elegance (not written by me)](https://github.com/EimaMei/sili)
 
 Contacts:
 
