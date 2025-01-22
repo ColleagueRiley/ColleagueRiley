@@ -3,8 +3,11 @@ Check out Sili! [A C library that aims at modernizing C without becoming bloatwa
 Contacts:
 
 - email : colleagueRiley@gmail.com
+- BlueSky https://bsky.app/profile/colleagueriley.bsky.social
+- Twitter/X : https://x.com/ColleagueRiley
 - discord : ColleagueRiley
-- discord server: [https://discord.gg/kdtTYkPY6V](https://discord.gg/kdtTYkPY6V)
+- discord server: [![Discord Members](https://img.shields.io/discord/829003376532258816.svg?label=Discord&logo=discord)](https://discord.gg/pXVNgVVbvhb)
+
 
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rsgl.png?raw=true)](https://github.com/ColleagueRiley/RSGL)
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rgfw.png?raw=true)](https://github.com/ColleagueRiley/RGFW)
