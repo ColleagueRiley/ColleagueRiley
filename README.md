@@ -2,7 +2,7 @@ Check out Sili! [A C library that aims at modernizing C without becoming bloatwa
 
 Contacts:
 
-- email : colleagueRiley@gmail.com
+- email : colleagueRiley@gmail.com or RileyMabb@outlook.com
 - BlueSky https://bsky.app/profile/colleagueriley.bsky.social
 - Twitter/X : https://x.com/ColleagueRiley
 - discord : ColleagueRiley
