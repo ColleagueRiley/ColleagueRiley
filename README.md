@@ -7,6 +7,10 @@ Contacts:
 - Twitter/X : https://x.com/ColleagueRiley
 - discord : ColleagueRiley
 - discord server: [![Discord Members](https://img.shields.io/discord/829003376532258816.svg?label=Discord&logo=discord)](https://discord.gg/pXVNgVVbvh)
+- You can support my open source with [GitHub sponsors](https://github.com/sponsors/ColleagueRiley) or [Patreon](www.patreon.com/c/ColleagueRiley)
+
+Open for work!
+
 
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rsgl.png?raw=true)](https://github.com/ColleagueRiley/RSGL)
 [![AltText](https://github.com/ColleagueRiley/ColleagueRiley/blob/main/rgfw.png?raw=true)](https://github.com/ColleagueRiley/RGFW)
