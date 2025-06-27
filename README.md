@@ -5,6 +5,7 @@ Contacts:
 - email : colleagueRiley@gmail.com or RileyMabb@outlook.com
 - BlueSky https://bsky.app/profile/colleagueriley.bsky.social
 - Twitter/X : https://x.com/ColleagueRiley
+- LinkedIn : https://www.linkedin.com/in/riley-mabb-16807b292/
 - discord : ColleagueRiley
 - discord server: [![Discord Members](https://img.shields.io/discord/829003376532258816.svg?label=Discord&logo=discord)](https://discord.gg/pXVNgVVbvh)
 - You can support my open source with [GitHub sponsors](https://github.com/sponsors/ColleagueRiley) or [Patreon](www.patreon.com/c/ColleagueRiley)
