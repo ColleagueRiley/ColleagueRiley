@@ -2,6 +2,21 @@
 
 I'm a software developer passionate about creating lightweight, low-level tools that help build better software. I focus on data-aware tools with an emphasis on clarity, simplicity, and solid design.
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-4EAA25?style=for-the-badge&logo=gnu&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-F34B7D?style=for-the-badge&logo=llvm&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![X11](https://img.shields.io/badge/X11-000000?style=for-the-badge&logo=x&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-1793D1?style=for-the-badge&logo=wayland&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
 ---
 
 ## Featured Projects
