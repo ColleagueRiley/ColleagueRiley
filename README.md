@@ -53,10 +53,10 @@ I'm a software developer passionate about creating lightweight, low-level tools 
 
 </div>
 
----
-
-## favorites
-[sili](https://github.com/EimaMei/Sili)
+## Favorites
+<a href="https://github.com/eimamei/sili" target="_blank" rel="noopener noreferrer" style="display: inline-block; border: 2px solid #0366d6; border-radius: 12px; padding: 8px;">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66a090a4-2b69-4a28-9b5f-4177b1d8e3ea/dg5wzfi-9344e626-9d4d-4c0f-8b49-3a40fca95e23.jpg/v1/fill/w_750,h_674,q_75,strp/sili_cat_by_djman10247_dg5wzfi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvNjZhMDkwYTQtMmI2OS00YTI4LTliNWYtNDE3N2IxZDhlM2VhXC9kZzV3emZpLTkzNDRlNjI2LTlkNGQtNGMwZi04YjQ5LTNhNDBmY2E5NWUyMy5qcGciLCJ3aWR0aCI6Ijw9NzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-xO_UlfcRnBxUfVBl0GNcBIYujxGVf1jay04e_Ofwu4" width="100" alt="Silicon Logo" style="border-radius: 10px;" />
+</a>
 
 ---
 
