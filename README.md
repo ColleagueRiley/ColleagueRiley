@@ -20,7 +20,6 @@ I'm a software developer passionate about creating lightweight, low-level tools 
 ---
 
 ## Featured Projects
-(These are buttons)
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
