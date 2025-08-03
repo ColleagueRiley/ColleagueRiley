@@ -19,7 +19,7 @@ I'm a software developer passionate about creating lightweight, low-level tools 
 
 ---
 
-## Featured Projects
+## Featured Projects (links)
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
@@ -52,6 +52,11 @@ I'm a software developer passionate about creating lightweight, low-level tools 
 </a>
 
 </div>
+
+---
+
+## favorites
+[sili](https://github.com/EimaMei/Sili)
 
 ---
 
