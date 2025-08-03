@@ -1,4 +1,4 @@
-# Hello, I'm Colleague Riley mabb!
+# Hello, I'm Colleague Riley Mabb!
 
 I'm a software developer passionate about creating lightweight, low-level tools that help build better software. I focus on data-aware tools with an emphasis on clarity, simplicity, and solid design.
 
