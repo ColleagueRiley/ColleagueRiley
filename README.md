@@ -1,6 +1,6 @@
 # Hello, I'm Colleague Riley mabb!
 
-I'm a C developer passionate about creating lightweight, low-level tools that help build better software. My work focuses on clarity, simplicity, and well-designed systems. Whether you're here to explore my open source projects, sponsor my work, or collaborate professionally, welcome!
+I'm a C developer passionate about creating lightweight, low-level tools that help build better software. My work focuses on clarity, simplicity, and well-designed systems.
 
 ---
 
