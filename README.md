@@ -66,7 +66,7 @@ Also check out [my GitHub organization for The RSGL Suite Community](https://git
 
 Feel free to reach out or follow me on social media:
 
-- **Email:** (Personal Inquiry) [colleagueRiley@hedgehogsoft.com](mailto:colleagueRiley@hedgehogsoft.com) | [RileyMabb@hedgehogsoft.com(mailto:RileyMabb@hedgehogsoft.com) 
+- **Email:** (Personal Inquiry) [colleagueRiley@hedgehogsoft.com](mailto:colleagueRiley@hedgehogsoft.com)
 - **Email:** (Business) [RileyMabb@hedgehogsoft.com](mailto:RileyMabb@hedgehogsoft.com) 
 - **BlueSky:** [colleagueriley.bsky.social](https://bsky.app/profile/colleagueriley.bsky.social)  
 - **Twitter/X:** [@ColleagueRiley](https://x.com/ColleagueRiley)  
