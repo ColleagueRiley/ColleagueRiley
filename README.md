@@ -2,7 +2,7 @@
 
 I'm a software developer passionate about creating lightweight, low-level tools that help build better software. I focus on data-aware tools with an emphasis on clarity, simplicity, and solid design.
 
-Also check out [my GitHub organization for The RSGL Suite Community](https://github.com/RSGL/)
+Also check out [my GitHub organization for The Hedgehogsoft Community](https://github.com/RSGL/)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
